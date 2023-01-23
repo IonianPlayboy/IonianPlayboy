@@ -5,8 +5,8 @@ I am a full stack developer living near Paris, France.
 
 #### 👨‍💻 About me:
 
-- 💼 Working for [Vivlab](https://vivlab.com/), a french startup who develops a CMS for people starting their business
-- 🔭 I’m currently working on a Wordle clone and a Tailwind CSS plugin as side projects
+- 💼 Working for  [Specify](https://specifyapp.com/), a french startup who develops a solution to manage design tokens
+- 🔭 I’m currently working on a productivity tool and a TTRPG app as side projects
 - 🌱 I’m learning creative coding on my spare time
 - 📫 How to reach me: Via [email](mailto:nathanael.labreuil@gmail.com), or through [my LinkedIn profile](https://www.linkedin.com/in/nathanael-labreuil/)
 - 😄 Pronouns: he/they
