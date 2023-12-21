@@ -18,7 +18,7 @@ I am a full stack developer living near Paris, France.
 </a>
 &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 alt="top langs" align="center" src="https://github-readme-stats-theta-one-70.vercel.app/api/top-langs/?username=ionianplayboy&count_private=true&layout=compact&theme=onedark&hide=php,c,hack" />
+  <img height=210 alt="top langs" align="center" src="https://github-readme-stats-theta-one-70.vercel.app/api/top-langs/?username=ionianplayboy&count_private=true&layout=compact&theme=onedark&hide=php,c,hack" />
 </a>
 
 #### 🏆 GitHub trophies:
