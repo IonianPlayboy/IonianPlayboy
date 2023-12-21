@@ -6,7 +6,7 @@ I am a full stack developer living near Paris, France.
 #### 👨‍💻 About me:
 
 - 💼 Working for  [Specify](https://specifyapp.com/), a french startup who develops a solution to manage design tokens
-- 🔭 I’m currently working on a productivity tool and a Tailwind plugin as side projects
+- 🔭 I’m currently working on a productivity tool and a Nuxt plugin as side projects
 - 🌱 I’m learning creative coding on my spare time
 - 📫 How to reach me: Via [email](mailto:nathanael.labreuil@gmail.com), or through [my LinkedIn profile](https://www.linkedin.com/in/nathanael-labreuil/)
 - 😄 Pronouns: he/they
