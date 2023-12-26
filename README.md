@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a full stack developer living near Paris, France.
+I am a full stack developer living in Grenoble, France.
 
 <hr />
 
