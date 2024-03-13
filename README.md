@@ -24,3 +24,8 @@ I am a full stack developer living in Grenoble, France.
 #### 🏆 GitHub trophies:
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=ionianplayboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+#### 💚 Nuxter profile:
+
+![IonianPlayboy Nuxter profile](https://nuxters.nuxt.com/IonianPlayboy/__og_image__/og.png)
