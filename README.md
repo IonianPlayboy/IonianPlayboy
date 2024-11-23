@@ -5,9 +5,9 @@ I am a full stack developer living in Grenoble, France.
 
 #### 👨‍💻 About me:
 
-- 💼 Working for  [Specify](https://specifyapp.com/), a french startup who develops a solution to manage design tokens
+- 💼 Working for [xo7](https://www.xo7.fr/), a french web agency specialized in real estate
 - 🔭 I’m currently working on a productivity tool and a Nuxt plugin as side projects
-- 🌱 I’m learning creative coding on my spare time
+- 🌱 I try to contribute back to OSS project when I can. Here's some projects where I have already landed a PR: [Nuxt](https://github.com/nuxt/nuxt), [Nimbus](https://github.com/nimbus-town/nimbus)
 - 📫 How to reach me: Via [email](mailto:nathanael.labreuil@gmail.com), or through [my LinkedIn profile](https://www.linkedin.com/in/nathanael-labreuil/)
 - 😄 Pronouns: he/they
 
@@ -27,5 +27,4 @@ I am a full stack developer living in Grenoble, France.
 
 
 #### 💚 Nuxter profile:
-
-![IonianPlayboy Nuxter profile](https://nuxters.nuxt.com/IonianPlayboy/__og_image__/og.png)
+![IonianPlayboy Nuxter profile](https://nuxters.nuxt.com/card/IonianPlayboy/og.png)
