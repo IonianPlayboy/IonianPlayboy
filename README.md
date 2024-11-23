@@ -8,7 +8,7 @@ I am a full stack developer living in Grenoble, France.
 - 💼 Working for [xo7](https://www.xo7.fr/), a french web agency specialized in real estate
 - 🔭 I’m currently working on a productivity tool and a Nuxt plugin as side projects
 - 🌱 I try to contribute back to OSS project when I can. Here's some projects where I have already landed a PR: [Nuxt](https://github.com/nuxt/nuxt), [Nimbus](https://github.com/nimbus-town/nimbus)
-- 📫 How to reach me: Via [email](mailto:nathanael.labreuil@gmail.com), or through [my LinkedIn profile](https://www.linkedin.com/in/nathanael-labreuil/)
+- 📫 How to reach me: I'm on [Bluesky](https://bsky.app/profile/natelab.bsky.social), but you can also contact me via [email](mailto:nathanael.labreuil@gmail.com), or through [my LinkedIn profile](https://www.linkedin.com/in/nathanael-labreuil/)
 - 😄 Pronouns: he/they
 
 #### 📊 GitHub Stats:
