@@ -31,12 +31,12 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT  }}
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
-          token: ${{ secrets.PAT  }}
+    #   - name: Generate trophy
+    #     uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+    #     with:
+    #       username: ${{ github.repository_owner }}
+    #       file: profile/trophy.svg
+    #       token: ${{ secrets.PAT  }}
 
       - name: Commit cards
         run: |
